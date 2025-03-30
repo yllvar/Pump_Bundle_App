@@ -18,7 +18,7 @@ A Next.js application for bundling multiple token transactions into a single tra
 
 ### Key Features
 
-1. **Modern UI with Tailwind CSS** - Recreated the exact design from your HTML file using Tailwind CSS with custom color variables
+1. **Modern UI with Tailwind CSS** - Design using Tailwind CSS with custom color variables
 2. **Wallet Integration** - Connect with MetaMask using wagmi hooks
 3. **Token Bundling** - Add multiple token addresses and bundle them into a single transaction
 4. **Gas Estimation** - Calculate estimated gas costs and potential savings
